@@ -34,22 +34,22 @@
 ================================================== */
 
 @font-face {
-    font-family: ciutadella-regular;
-	src: url(/ciutadella_font_family/Ciutadella-Regular.otf);
+    font-family: gotham-regular;
+	src: url(/gothamRegular/GothamLight\ Regular.otf);
 	font-weight: normal;
 	font-style: normal;
   }
 
   @font-face {
-    font-family: ciutadella-bold;
-	src: url(/ciutadella_font_family/Ciutadella-Bold.otf);
+    font-family: gotham-bold;
+	src: url(/gothamRegular/GothamBold\ Regular.otf);
 	font-weight: normal;
 	font-style: normal;
   }
 
   @font-face {
-    font-family: ciutadella-medium;
-	src: url(/ciutadella_font_family/Ciutadella-Medium.otf);
+    font-family: gotham-medium;
+	src: url(/gothamRegular/GothamThin\ Regular.otf);
 	font-weight: normal;
 	font-style: normal;
   }

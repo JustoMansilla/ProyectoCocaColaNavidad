@@ -360,39 +360,39 @@ html {
 	background-color: #eff1f2;
 }
 body, button, span.date_label, .timeline_items li h3 span, input[type="submit"], input[type="reset"], input[type="button"], input[type="text"], input[type="password"], input[type="tel"], input[type="email"], textarea, select, .offer_li .title h3 {
-	font-family: "Alegreya", Arial, Tahoma, sans-serif;
+	font-family: gotham-regular;
 	font-weight: 400;
 }
 #menu>ul>li>a, .action_button, #overlay-menu ul li a {
-	font-family: "Alegreya", Arial, Tahoma, sans-serif;
+	font-family: gotham-regular;
 	font-weight: 400;
 }
 #Subheader .title {
-	font-family: "Alegreya", Arial, Tahoma, sans-serif;
+	font-family: gotham-regular;
 	font-weight: 400;
 }
 h1, .text-logo #logo {
-	font-family: "Alegreya", Arial, Tahoma, sans-serif;
+	font-family: gotham-regular;
 	font-weight: 300;
 }
 h2 {
-	font-family: "Alegreya", Arial, Tahoma, sans-serif;
+	font-family: gotham-regular;
 	font-weight: 300;
 }
 h3 {
-	font-family: "Alegreya", Arial, Tahoma, sans-serif;
+	font-family: gotham-regular;
 	font-weight: 300;
 }
 h4 {
-	font-family: "Alegreya", Arial, Tahoma, sans-serif;
+	font-family: gotham-regular;
 	font-weight: 300;
 }
 h5 {
-	font-family: "Alegreya", Arial, Tahoma, sans-serif;
+	font-family: gotham-regular;
 	font-weight: 700;
 }
 h6 {
-	font-family: "Alegreya", Arial, Tahoma, sans-serif;
+	font-family: gotham-regular;
 	font-weight: 400;
 }
 blockquote {
