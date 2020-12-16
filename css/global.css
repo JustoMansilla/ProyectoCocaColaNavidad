@@ -6134,7 +6134,7 @@ a.icon_bar_dribbble span.b {
 	position: absolute;
 	left: -122%;
 	top: 0;
-	background-image: url(../images/stripes/stripes_10_b.png)
+	background-image: url(/imagenes/)
 }
 .timeline_items li:nth-child(even) .desc:before {
 	left: auto;
