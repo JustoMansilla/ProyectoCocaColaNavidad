@@ -7297,7 +7297,8 @@ ul.portfolio_grid li .image_frame {
 	left: 10px
 }
 .twentytwenty-horizontal .twentytwenty-after-label:before {
-	right: 10px
+	right: 10px;
+	visibility: hidden;
 }
 .twentytwenty-vertical .twentytwenty-before-label:before {
 	top: 10px
@@ -7354,7 +7355,7 @@ ul.portfolio_grid li .image_frame {
 	margin-top: 22px;
 	-webkit-box-shadow: 0 -3px 0 white, 0 0 12px rgba(51, 51, 51, 0.5);
 	-moz-box-shadow: 0 -3px 0 white, 0 0 12px rgba(51, 51, 51, 0.5);
-	box-shadow: 0 -3px 0 white, 0 0 12px rgba(51, 51, 51, 0.5)
+	box-shadow: 0 -3px 0 white, 0 0 12px rgba(51, 51, 51, 0.5);
 }
 .twentytwenty-vertical .twentytwenty-handle:before {
 	left: 50%;
@@ -16256,7 +16257,8 @@ body.mobile-side-slide {
 	content: "After"
 }
 .twentytwenty-horizontal .twentytwenty-before-label:before {
-	left: 10px
+	left: 10px;
+	visibility: hidden;
 }
 .twentytwenty-horizontal .twentytwenty-after-label:before {
 	right: 10px
